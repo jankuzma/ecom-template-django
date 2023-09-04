@@ -1,6 +1,7 @@
 env/.env
 .idea
 staticfiles/*
+node_modules/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,macos,django,venv

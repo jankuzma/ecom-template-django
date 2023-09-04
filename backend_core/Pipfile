@@ -10,6 +10,7 @@ dj-database-url = "==1.0.0"
 psycopg2-binary = "==2.9.7"
 pytest-django = "==4.5.2"
 pytest-cov = "==3.0.0"
+django-tailwind = {version = "==3.6.0", extras = ["reload"]}
 
 [dev-packages]
 
